@@ -3,6 +3,8 @@
 }
 body {
     font-family:cursive;
+    background-color: rgb(255, 246, 205);
+   
 }
 h1 {
     text-align: center;
@@ -172,7 +174,7 @@ section {
     margin-left: 20px !important;
 }
 #first {
-    background-color:rgba(221, 94, 10, 0.111);
+    background-color:rgba(10, 221, 168, 0.111);
 }
 #second {
     background-color: darksalmon;
