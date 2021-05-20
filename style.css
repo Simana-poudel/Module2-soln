@@ -156,14 +156,17 @@ h1 {
 }
 h2 {
   
-   width: 30%;
+   width: 50%;
    float: right;
    margin-top: 0;
    margin-left: 0;
    border: 2.5px solid black;
+   margin-bottom: 0;
+   text-align: center;
+
 }
 p {
-    margin: 35px 10px 10px 10px;
+    margin: 85px 10px 10px 10px;
 }
 section {
     border: 3px solid black;
